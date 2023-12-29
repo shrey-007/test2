@@ -1,1 +1,2 @@
 this is index file
+so this is updated code of branch2 branch
